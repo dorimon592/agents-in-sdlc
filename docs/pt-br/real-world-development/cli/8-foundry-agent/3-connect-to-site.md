@@ -91,6 +91,6 @@ Continue em [Revisão e próximos passos][review] para encerrar o workshop da CL
 
 [overview]: ../
 [previous-lesson]: ../2-build-and-deploy/
-[review]: ../../9-review/
+[review]: ../../10-review/
 [playwright-lesson]: ../../4-mcp/
 [cleanup]: ../#limpe-seus-recursos
